@@ -1,4 +1,4 @@
-# Horizontal & Mouse Movement Only
+# Horizontal Mouse Movement Only
 Limit the mouse input to only move exactly horizontal when you hold Ctrl + Alt.
 
 ### Windows Install Instructions
