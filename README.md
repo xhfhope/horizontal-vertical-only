@@ -15,3 +15,5 @@ Limit the mouse input to only move exactly horizontal when you hold Ctrl + Alt.
 ### Auto-Start
 To run it on Windows Startup, you can paste the `.ahk` file in the below directory (substitute your windows username)
 `C:\Users\<your username here>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
+
+Note: The script consumes 1-2 MB of memory.
