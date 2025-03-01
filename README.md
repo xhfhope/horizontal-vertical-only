@@ -1,6 +1,8 @@
 # Horizontal Mouse Movement Only
 Limit the mouse input to only move exactly horizontal when you hold Ctrl + Alt.
 
+![](https://github.com/xhfhope/horizontal-vertical-only/blob/main/Sequence%2001_13.gif)
+
 ### Windows Install Instructions
 1. Download [AutoHotkey **v1** from their official website](https://www.autohotkey.com/)
 2. Obtain the .ahk file in this repo.
